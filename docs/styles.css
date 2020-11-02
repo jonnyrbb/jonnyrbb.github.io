@@ -1,0 +1,13 @@
+body {
+  padding: 0 1.618em;
+  font: 13px/20px Helvetica, Arial, Sans-serif;
+  color: #555;
+  background-color: #fff;
+  -webkit-font-smoothing: antialiased;
+}
+h3 {
+  margin: 0;
+  font-family: Helvetica, Arial, sans-serif;
+  color: #222;
+  font-weight: bold;
+}
