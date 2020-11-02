@@ -23,8 +23,8 @@ a:link,
 a:visited {
   color: #3a96c4;
   min-width: 1px;
+  text-decoration: none;
 }
 a:hover {
   text-decoration: underline;
-  color: red;
 }
