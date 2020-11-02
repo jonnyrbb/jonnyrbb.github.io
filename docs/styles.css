@@ -6,8 +6,25 @@ body {
   -webkit-font-smoothing: antialiased;
 }
 h3 {
-  margin: 0;
-  font-family: Helvetica, Arial, sans-serif;
-  color: #222;
-  font-weight: bold;
+  margin: 0 0 0.5em;
+  font: normal 18px/1.5em 'PT Serif', arial, sans-serif;
+  color: #FF8200;
+  font-size: 1.6em;
+}
+p {
+  display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+  font: 13px/22px Helvetica, Arial, sans-serif;
+}
+a:link,
+a:visited {
+  color: #3a96c4;
+  min-width: 1px;
+}
+a:hover {
+  text-decoration: underline;
+  color: red;
 }
